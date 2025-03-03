@@ -1,7 +1,6 @@
 # Affine Cipher Implementation in C++
 
 **Your Name**  Mohamed Tarek
-**Student ID:** 202201647
 
 ## Description
 
