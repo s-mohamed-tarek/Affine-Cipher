@@ -1,6 +1,6 @@
 # Affine Cipher Implementation in C++
 
-**Name**  Mohamed Tarek
+**Name:**  Mohamed Tarek
 
 ## Description
 
